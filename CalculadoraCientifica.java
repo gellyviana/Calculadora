@@ -5,7 +5,6 @@ public class CalculadoraCientifica implements Calculadora{
 	private double num2;
 	
 	public CalculadoraCientifica(double num1, double num2) {
-		super();
 		this.num1 = num1;
 		this.num2 = num2;
 	}
